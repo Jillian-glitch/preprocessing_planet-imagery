@@ -1,4 +1,5 @@
 # preprocessing_planet-imagery
+Since planet Imagery has a spatial resolution of 3-4M it is advised to run below code on a small set number of images to avoid the memory error occurring. A fast and strong machine is also recommended for the same.
 # Install libraries
 import rasterio
 from os import walk
